@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">noas-weather-app</string>
+    <string name="title_activity_main">noas-weather-app</string>
+    <string name="package_name">noas.weather.app</string>
+    <string name="custom_url_scheme">noas.weather.app</string>
+</resources>

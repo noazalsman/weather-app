@@ -1,0 +1,18 @@
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.forecast-card {
+    width: 110px;
+    background-color:rgb(84, 118, 162);
+    color: white;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}

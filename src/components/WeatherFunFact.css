@@ -1,0 +1,17 @@
+.weather-fun-fact-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh; /* this will make the container fill the whole screen */
+    text-align: center;
+    max-width: 80%; /* set a max width */
+    margin: auto; /* center the container */
+    font-size: medium;
+}
+
+.weather-fun-fact-icon {
+    color: rgb(255, 225, 91); /* color of the icon */
+    margin-bottom: 10px;
+    font-size: 45px;
+}

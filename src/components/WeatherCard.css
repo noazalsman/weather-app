@@ -1,0 +1,20 @@
+.weather-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    max-width: 300px; /* set a max width*/
+    margin: auto; /* center the container */
+    background-color:rgb(84, 118, 162);
+    color: white;
+}
+
+.photo {
+    width: 100%;
+    height: 30vh;
+}
+
+.temperature {
+    font-size: 25px !important;
+}
